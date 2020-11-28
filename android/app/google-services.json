@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "724711964924",
+    "firebase_url": "https://flash-chat-7e3b1.firebaseio.com",
+    "project_id": "flash-chat-7e3b1",
+    "storage_bucket": "flash-chat-7e3b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724711964924:android:b8a3d392cc2984ae38d779",
+        "android_client_info": {
+          "package_name": "co.Kira.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724711964924-qr4d6tb5l487dnp06srupgpp6plaaa7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28fcGVtz_XU8NAgdhtFl-7lK7eSxkzKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724711964924-qr4d6tb5l487dnp06srupgpp6plaaa7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
